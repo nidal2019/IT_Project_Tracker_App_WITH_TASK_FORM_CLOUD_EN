@@ -1,4 +1,6 @@
-# Remotion video
+# Holographic aquarium
+
+Vertical 9:16 Remotion composition (`HolographicAquarium`): 1080×1920, 30 fps, 12 seconds. The motion is an integer number of cycles, so the shot loops. Open Studio with `npm run dev`, or render with `npx remotion render HolographicAquarium out/aquarium.mp4`.
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
